@@ -1,7 +1,7 @@
 def main():
     #write your code below this line
     while True:
-      print("Carry on? (no shows no)")
+      print("Carry on?")
       message = input()
       if (message == "no"):
         break
