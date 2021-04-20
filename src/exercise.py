@@ -1,9 +1,9 @@
 def main():
     #write your code below this line
     while True:
-      print("Carry on? (n shows no)")
+      print("Carry on? (no shows no)")
       message = input()
-      if (message == "n"):
+      if (message == "no"):
         break
 
 
